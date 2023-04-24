@@ -21,7 +21,7 @@ int handle_conversion(const char *c, va_list ptr)
 	}
 	else
 	{
-		count += p(ptr)
+		count += p(ptr);
 	}
 	return (count);
 }
