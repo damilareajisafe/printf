@@ -2,8 +2,8 @@
 #include <unistd.h>
 #include "main.h"
 /**
- * handle_conversion - checks if the specifier is valid or otherwise and prints
- * the correct output
+ * handle_conversion - checks if the specifier is valid or otherwise and
+ * 		       prints the correct output
  * @c: pointer to any '%' found in the string to be printed
  * @ptr: argument list pointer
  * Return: number of characters printed
